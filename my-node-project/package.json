@@ -1,0 +1,11 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "Простий проєкт для тестування Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Ваше Ім'я",
+  "license": "ISC"
+}
